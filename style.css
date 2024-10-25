@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(204, 218, 2);
+    text-align:center ;
+
+}
+button{
+    background-color: rgb(32, 32, 103);
+    color:rgb(204, 218, 2);
+    border-radius: 20px;
+    font-size: larger;
+    padding: 0.5%;
+    margin-bottom: 1%;
+    cursor: pointer;
+}
+
+#instrucoes{
+    background-color: rgb(32, 32, 103);
+    color: rgb(204, 218, 2);
+    width: 500px; 
+    margin: auto;
+    border-radius: 5px;
+    padding: 0.1%;
+    display: none;
+}
+#x{
+    background-color:white;
+    color: red;
+    padding: 0 1% ;
+    
+}
+
+#tit-instrucoes{
+    display:inline;
+    margin-left: 200px;
+    margin-right:180px;
+}
